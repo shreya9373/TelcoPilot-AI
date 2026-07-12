@@ -1,0 +1,11 @@
+Tower,Status,CPU,Latency,PacketLoss,Users
+T101,Healthy,35,18,0.2,420
+T102,Healthy,42,22,0.5,510
+T103,Warning,78,110,2.8,950
+T104,Critical,95,310,8.5,1850
+T105,Healthy,40,20,0.3,480
+T106,Warning,82,145,3.6,1200
+T107,Critical,98,420,10.2,2100
+T108,Healthy,38,19,0.4,460
+T109,Healthy,45,25,0.6,520
+T110,Warning,80,130,2.5,1100
