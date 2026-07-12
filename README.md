@@ -184,6 +184,23 @@ along with:
 - Supporting Knowledge
 - Downloadable Incident Report
 
+
+# Screenshots
+
+<img width="1279" height="602" alt="Screenshot 2026-07-12 105417" src="https://github.com/user-attachments/assets/46f97a10-d231-4ce1-8ed1-75edc6cddafa" />
+
+
+<img width="1268" height="572" alt="Screenshot 2026-07-12 105508" src="https://github.com/user-attachments/assets/54b923d8-e78a-49e9-9bb8-5a5da70ee96c" />
+
+<img width="1265" height="623" alt="Screenshot 2026-07-12 105556" src="https://github.com/user-attachments/assets/83d51fdd-3b74-43ea-aa0e-8fc9b4d8f294" />
+
+<img width="1268" height="600" alt="Screenshot 2026-07-12 105659" src="https://github.com/user-attachments/assets/6cdb5d52-ed1a-46c1-ab6c-fc83f6ace648" />
+
+<img width="1268" height="593" alt="Screenshot 2026-07-12 105749" src="https://github.com/user-attachments/assets/94a243e8-a029-4177-b93f-7359baa406d7" />
+
+<img width="1269" height="608" alt="Screenshot 2026-07-12 105831" src="https://github.com/user-attachments/assets/0c425061-7aeb-45a4-9ed4-7510c99ae1cf" />
+
+
 ---
 
 # ▶️ Installation
