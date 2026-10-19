@@ -1,3 +1,5 @@
+import os
+
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -9,11 +11,15 @@ from models.incident_schema import IncidentAnalysis
 
 
 llm = ChatGroq(
-    model="llama-3.3-70b-versatile",
+    model=os.getenv("GROQ_MODEL", "openai/gpt-oss-120b"),
     temperature=0
 )
 
-structured_llm = llm.with_structured_output(IncidentAnalysis)
+structured_llm = llm.with_structured_output(
+    IncidentAnalysis,
+    method="json_schema",
+    strict=False
+)
 
 
 prompt = ChatPromptTemplate.from_template("""

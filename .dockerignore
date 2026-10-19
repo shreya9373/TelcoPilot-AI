@@ -1,0 +1,10 @@
+.git
+.env
+venv
+.venv
+__pycache__
+*.pyc
+vectorstore
+.vscode
+*.pdf
+telcopilot_ai_interview_notes.txt

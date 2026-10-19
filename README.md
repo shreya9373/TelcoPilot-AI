@@ -249,6 +249,7 @@ For Groq
 
 ```env
 GROQ_API_KEY=YOUR_API_KEY
+GROQ_MODEL=openai/gpt-oss-120b
 ```
 
 or for Gemini
