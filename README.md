@@ -328,4 +328,3 @@ For every incident the system generates:
 
 **Shreya Trivedi**
 
-Built for the **Deutsche Telekom AI Hackathon** using LangGraph, LangChain, ChromaDB, Groq/Gemini, and Streamlit.
